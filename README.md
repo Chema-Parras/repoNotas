@@ -1,4 +1,5 @@
 # Música maestro
+*te he creado Dos archivos de mas en la rama claveSol, por los problemas que ya viste en clase, gracias.*
 ``    6  cd Desktop/
 
     7  git config user.name Chema-parras
